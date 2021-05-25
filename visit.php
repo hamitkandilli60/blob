@@ -20,18 +20,7 @@ function file_getcontent_with_proxy($urltoget) {
 
 
 $urls = array (
-  array("martincr","http://kandillihamit.pserver.ru/martincr/index.php"),
-  array("magazines","http://kandillihamit.pserver.ru/magazines/index.php"),
-  array("magazines","http://kandillihamit.pserver.ru/magazines/index.php"),
-  array("magazines","http://kandillihamit.pserver.ru/magazines/index.php"),
-  array("magazines","http://kandillihamit.pserver.ru/magazines/index.php"),
-  array("magazines","http://kandillihamit.pserver.ru/magazines/index.php"),
-  array("magazines","http://kandillihamit.pserver.ru/magazines/index.php"),
-  array("magazines","http://kandillihamit.pserver.ru/magazines/index.php"),
-  array("magazines","http://kandillihamit.pserver.ru/magazines/index.php"),
-  array("magazines","http://kandillihamit.pserver.ru/magazines/index.php"),
-  array("magazines","http://kandillihamit.pserver.ru/magazines/index.php"),
-  array("magazines","http://kandillihamit.pserver.ru/magazines/index.php"),
+ 
 );
 $st = count($urls);
 //echo "Start ht";
